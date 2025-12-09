@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529767776450",
+    "project_id": "car-go-c5889",
+    "storage_bucket": "car-go-c5889.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529767776450:android:fef65337b4d04695583b5b",
+        "android_client_info": {
+          "package_name": "com.example.car_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVfagjx5g9iQhhIwkg0lJHoocamwuXso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
