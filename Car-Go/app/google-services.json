@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862853859944",
+    "project_id": "cargo-5da5b",
+    "storage_bucket": "cargo-5da5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862853859944:android:3f95bc97e251df8e7149dd",
+        "android_client_info": {
+          "package_name": "com.example.car_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49TEh9wrno-r4JGSv7c3EylKJyxpgUko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
